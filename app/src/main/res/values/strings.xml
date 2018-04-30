@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">activityexercise</string>
+    <string name="button_1">Button 1</string>
+    <string name="Button_1">线性布局</string>
+    <string name="button2">相对布局</string>
+    <string name="button1">线性布局</string>
+    <string name="button3">帧布局</string>
+    <string name="button4">表格布局</string>
+    <string name="button5">网络布局</string>
+    <string name="username">俞良煌</string>
+    <string name="Mainname">This is MainActivity</string>
+    <string name="button6">水平布局</string>
+    <string name="button">水平布局</string>
+    <string name="button7">垂直布局</string>
+    <string name="button8">靠左对其</string>
+    <string name="fanhui">返回</string>
+    <string name="button10">第三个button</string>
+    <string name="button13">第四个button</string>
+    <string name="button12">第一个button</string>
+    <string name="button11">第二个button</string>
+    <string name="button17">第一个Button</string>
+    <string name="button18">第二个Button</string>
+    <string name="button19">第三个Button</string>
+    <string name="button20">第四个Button</string>
+</resources>
